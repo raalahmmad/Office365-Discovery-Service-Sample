@@ -20,6 +20,9 @@
                     <SolidColorBrush x:Key="ButtonPointerOverForegroundThemeBrush" Color="#0072C6" />
                 </ResourceDictionary>
             </ResourceDictionary.ThemeDictionaries>
+            <x:String x:Key="ida:ClientID">3903340e-c26a-409e-b2df-f2282facd7fe</x:String>
+            <x:String x:Key="ida:AADInstance">https://login.microsoftonline.com/</x:String>
+            <x:String x:Key="ida:Domain">netdexteritytest.onmicrosoft.com</x:String>
         </ResourceDictionary>
     </Application.Resources>
 </Application>

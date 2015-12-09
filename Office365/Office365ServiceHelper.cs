@@ -42,6 +42,7 @@ namespace Win8ServiceDiscovery
         public static readonly string ClientId = App.Current.Resources["ida:ClientID"].ToString();
 
         public static readonly Uri DiscoveryServiceEndpointUri = new Uri("https://api.office.com/discovery/v1.0/me/");
+        // public static readonly Uri DiscoveryServiceEndpointUri = new Uri("https://api.office.com/discovery/v2.0/me");
 
         public static readonly string DiscoveryServiceResourceId = "https://api.office.com/discovery/";
  
